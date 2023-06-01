@@ -1,6 +1,6 @@
-Welcome to **Takahide Yanagi**'s GitHub!
+### Welcome to Takahide Yanagi's GitHub!
 
-### R packages
+#### R packages
 
 - [didet](https://tkhdyanagi.github.io/didet/)
   - Difference-in-differences estimation with general treatment patterns using the concept of effective treatment.
