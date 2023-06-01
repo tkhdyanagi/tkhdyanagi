@@ -1,5 +1,4 @@
 Welcome to **Takahide Yanagi**'s GitHub!
-
 Here I provide the following **R** packages.
 
 ✨[didet](https://tkhdyanagi.github.io/didet/)
