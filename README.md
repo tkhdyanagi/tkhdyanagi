@@ -10,7 +10,7 @@ Here I provide the following **R packages**.
   - [Hoshio and Yanagi (2023) "Causal Inference with Noncompliance and Unknown Interference"](https://arxiv.org/abs/2108.07455)
 
 - [panelhetero](https://tkhdyanagi.github.io/panelhetero/)
-  - Estimation of the degree of heterogeneity across cross-sectional units in panel data.
+  - Model-free estimation of the degree of heterogeneity across cross-sectional units in panel data.
   - [Okui and Yanagi (2019) "Panel data analysis with heterogeneous dynamics"](https://doi.org/10.1016/j.jeconom.2019.04.036) and [Okui and Yanagi (2020) "Kernel estimation for panel data with heterogeneous dynamics"](https://doi.org/10.1093/ectj/utz019)
 
 - [LATEerror](https://github.com/tkhdyanagi/LATEerror)
