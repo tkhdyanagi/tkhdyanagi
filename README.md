@@ -1,6 +1,6 @@
 ### Welcome to Takahide Yanagi's GitHub!
 
-I am an econometrican and a tenure-track senior lecturer at Kyoto University.
+I am an Econometrican and a tenure-track Senior Lecturer at Kyoto University.
 
 ### R packages
 
@@ -10,7 +10,7 @@ I am an econometrican and a tenure-track senior lecturer at Kyoto University.
 
 - [latenetwork](https://tkhdyanagi.github.io/latenetwork/)
   - Inference on LATE-type parameters under network interference of unknown form.
-  - Hoshio and Yanagi (2023) "[Causal Inference with Noncompliance and Unknown Interference](https://arxiv.org/abs/2108.07455)" **arXiv**
+  - Hoshino and Yanagi (2023) "[Causal Inference with Noncompliance and Unknown Interference](https://arxiv.org/abs/2108.07455)" **arXiv** (R&R at **JASA**)
 
 - [panelhetero](https://tkhdyanagi.github.io/panelhetero/)
   - Model-free inference on the degree of heterogeneity across cross-sectional units in panel data.
