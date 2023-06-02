@@ -1,5 +1,7 @@
 ### Welcome to Takahide Yanagi's GitHub!
 
+I am an econometrican and a tenure-track senior lecturer at Kyoto University.
+
 #### R packages
 
 - [didet](https://tkhdyanagi.github.io/didet/)
