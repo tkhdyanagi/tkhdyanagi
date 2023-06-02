@@ -2,7 +2,7 @@
 
 I am an econometrican and a tenure-track senior lecturer at Kyoto University.
 
-#### R packages
+### R packages
 
 - [didet](https://tkhdyanagi.github.io/didet/)
   - Difference-in-differences with general treatment patterns using the concept of effective treatment.
