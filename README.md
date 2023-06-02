@@ -9,7 +9,7 @@ I am an Econometrican and a tenure-track Senior Lecturer at Kyoto University.
   - Yanagi (2023) "[An Effective Treatment Approach to Difference-in-Differences with General Treatment Patterns](https://arxiv.org/abs/2212.13226)" **arXiv**
 
 - [latenetwork](https://tkhdyanagi.github.io/latenetwork/)
-  - Inference on LATE-type parameters under network interference of unknown form.
+  - Inference on direct, indirect, and overall treatment effects under noncompliance with treatment assignment and network interference of unknown form.
   - Hoshino and Yanagi (2023) "[Causal Inference with Noncompliance and Unknown Interference](https://arxiv.org/abs/2108.07455)" **arXiv** (R&R at **JASA**)
 
 - [panelhetero](https://tkhdyanagi.github.io/panelhetero/)
