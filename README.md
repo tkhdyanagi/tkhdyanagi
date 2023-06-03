@@ -1,6 +1,6 @@
 ### Welcome to Takahide Yanagi's GitHub!
 
-I am an Econometrican and a tenure-track Senior Lecturer at Kyoto University.
+I am an Econometrician and a tenure-track Senior Lecturer at Kyoto University.
 
 ### R packages
 
