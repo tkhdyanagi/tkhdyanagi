@@ -8,13 +8,13 @@ I am an Econometrician and a tenure-track Senior Lecturer at Kyoto University.
   - Randomization tests for SUTVA and several hypotheses about spillover effects
   - Hoshino and Yanagi (2023) "[Randomization Test for the Specification of Interference Structure](https://arxiv.org/abs/2301.05580)" **arXiv**
 
-- [didet](https://tkhdyanagi.github.io/didet/)
-  - Difference-in-differences with general treatment patterns using the concept of effective treatment.
-  - Yanagi (2023) "[An Effective Treatment Approach to Difference-in-Differences with General Treatment Patterns](https://arxiv.org/abs/2212.13226)" **arXiv**
-
 - [latenetwork](https://tkhdyanagi.github.io/latenetwork/)
   - Inference on direct, indirect, and overall treatment effects under noncompliance and network interference of unknown form.
   - Hoshino and Yanagi (2023) "[Causal Inference with Noncompliance and Unknown Interference](https://arxiv.org/abs/2108.07455)" **arXiv** (R&R at **JASA**)
+
+- [didet](https://tkhdyanagi.github.io/didet/)
+  - Difference-in-differences with general treatment patterns using the concept of effective treatment.
+  - Yanagi (2023) "[An Effective Treatment Approach to Difference-in-Differences with General Treatment Patterns](https://arxiv.org/abs/2212.13226)" **arXiv**
 
 - [panelhetero](https://tkhdyanagi.github.io/panelhetero/)
   - Model-free inference on the degree of heterogeneity across cross-sectional units in panel data.
