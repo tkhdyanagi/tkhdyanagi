@@ -4,6 +4,10 @@ I am an Econometrician and a tenure-track Senior Lecturer at Kyoto University.
 
 ### R packages
 
+- [testinterference](https://tkhdyanagi.github.io/testinterference/)
+  - Randomization tests for SUTVA and several hypotheses about spillover effects
+  - Hoshino and Yanagi (2023) "[Randomization Test for the Specification of Interference Structure](https://arxiv.org/abs/2301.05580)" **arXiv**
+
 - [didet](https://tkhdyanagi.github.io/didet/)
   - Difference-in-differences with general treatment patterns using the concept of effective treatment.
   - Yanagi (2023) "[An Effective Treatment Approach to Difference-in-Differences with General Treatment Patterns](https://arxiv.org/abs/2212.13226)" **arXiv**
