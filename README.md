@@ -10,7 +10,7 @@ I am an Econometrician and a tenure-track Senior Lecturer at Kyoto University.
 
 - [latenetwork](https://tkhdyanagi.github.io/latenetwork/) ([CRAN](https://cran.r-project.org/web/packages/latenetwork/index.html))
   - Inference on direct, indirect, and overall treatment effects under noncompliance and network interference of unknown form.
-  - Hoshino and Yanagi (2023) "[Causal Inference with Noncompliance and Unknown Interference](https://arxiv.org/abs/2108.07455)" **arXiv** (Accepted for publication in **Journal of the American Statistical Association**)
+  - Hoshino and Yanagi (2023) "[Causal Inference with Noncompliance and Unknown Interference](https://arxiv.org/abs/2108.07455)" **Journal of the American Statistical Association**
 
 - [didet](https://tkhdyanagi.github.io/didet/)
   - Difference-in-differences with general treatment patterns using the concept of effective treatment.
