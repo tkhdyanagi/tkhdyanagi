@@ -12,6 +12,10 @@ I am an Econometrician and a tenure-track Senior Lecturer at Kyoto University.
   - Inference on direct, indirect, and overall treatment effects under noncompliance and network interference of unknown form.
   - Hoshino and Yanagi (2023) "[Causal inference with noncompliance and unknown interference](https://doi.org/10.1080/01621459.2023.2284413)" **Journal of the American Statistical Association**
 
+- [didhetero](https://tkhdyanagi.github.io/didhetero/)
+  - Treatment effect heterogeneity in staggered difference-in-differences.
+  - Imai, Qin, and Yanagi (2023) "[Doubly Robust Uniform Confidence Bands for Group-Time Conditional Average Treatment Effects in Difference-in-Differences](https://doi.org/10.48550/arXiv.2305.02185)" **arXiv**
+
 - [didet](https://tkhdyanagi.github.io/didet/)
   - Difference-in-differences with general treatment patterns using the concept of effective treatment.
   - Yanagi (2023) "[An Effective Treatment Approach to Difference-in-Differences with General Treatment Patterns](https://arxiv.org/abs/2212.13226)" **arXiv**
