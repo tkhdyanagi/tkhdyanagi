@@ -1,6 +1,6 @@
 ### Welcome to Takahide Yanagi's GitHub!
 
-I am an Associate Professor at Kyoto University.
+I am an Associate Professor of Economics at Kyoto University.
 
 ### R packages
 
